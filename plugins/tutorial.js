@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn, text }) => {
   let ext= `
-┌─〔 TUTORIAL  〕
+┌─〔 TUTORIAL KAMAGAPO BOT  〕
 │ 
 ├〘 Tutorial EPIC RPG 〙
 ├➥ *✗claim*
